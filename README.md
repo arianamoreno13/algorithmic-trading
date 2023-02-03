@@ -22,7 +22,7 @@ The importance of algorithmic trading for data analysts lies in its ability to h
     - [5. Tests](#5-tests)
     - [6. Deployment](#6-deployment)
     - [7. Contact](#7-contact)
-
+    - [8. Results](#8-results)
 
 ## 1. Installation
 
@@ -70,3 +70,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## 7. Contact
 
 - [Ariana's Linkedin](www.linkedin.com/in/arianapmoreno)
+
+## 8. Results
+
+![SVM](C:\Users\arian\algorithmic-trading\screenshots\SVM-actual-strategy-returns.jpg)
+
+
+![ABC](C:\Users\arian\algorithmic-trading\screenshots\ABC-actual-strategy-returns.jpg)
