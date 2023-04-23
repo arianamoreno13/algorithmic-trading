@@ -75,9 +75,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 In the Support vector machines (SVMs) plot we have a very well predicted model. This model is a supervised learning algorithm used for outlier detection, regression, and classification. Though this model is well executed I want to see how well it compares with the ada boost Classifier.
 
-![SVM](screenshots\SVM-actual-strategy-returns.jpg)
+![SVM](screenshots/SVM-actual-strategy-returns.jpg)
 
 
 AdaBoost can be used to boost the performance of any machine learning algorithm. As you can see it does a good job till it hits 2018. After 2018 it isn't able to predict well. AdaBoost works best with weak learners such as decision trees with one level. SVMs is a stronger learner you can see from these plots. 
 
-![ABC](screenshots\ABC-actual-strategy-returns.jpg)
+![ABC](screenshots/ABC-actual-strategy-returns.jpg)
